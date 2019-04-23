@@ -32,10 +32,10 @@ console.log(getBirthday());
 // Задача№2 Расcчитать количество флезилиновых обоив. Done!
 function getRolls (sizeApartmentPaper) {
         var sizeApartmentPaper = {
-	                 "room" : { 
-	                         "weightWall1" : 4,
-							 "weightWall2" : 5,
-							 "height" : 3
+	                                "room" : { 
+	                                            "weightWall1" : 4,
+					            "weightWall2" : 5,
+					            "height" : 3
 					 },
 					 "door" : {
 						     "weightDoor" : 1
